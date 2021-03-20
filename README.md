@@ -28,4 +28,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/aDEGIrv48F.gif' title='Posting Photo Walkthrough' width='' alt='Video Walkthrough' />
 
+
+
 <img src='http://g.recordit.co/1f0jCsCPiM.gif' title='Sign In Walkthrough' width='' alt='Video Walkthrough' />
