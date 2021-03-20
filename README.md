@@ -32,4 +32,4 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/1f0jCsCPiM.gif' title='Sign In Walkthrough' width='' alt='Video Walkthrough' />
 
 
-<img src='http://g.recordit.co/V3dQBPwxCj.gif' title='App Icon and Launch Update' width='' alt 'Video Walkthrough' />
+<img src='http://g.recordit.co/V3dQBPwxCj.gif' title='Sign In Walkthrough' width='' alt='Video Walkthrough' />
